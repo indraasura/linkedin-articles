@@ -2,7 +2,7 @@ A major misalignment in tech teams is when people building products are not in t
 
 How to get inside your customer's mind
 
-Find out where you currently stand - ask the following questions to your team
+Find out where you currently stand - ask the following questions to yourself, and ideally to your team
 = who is our customer 
 = what do they love/hate about our company/product
 = when was the last time you spoke with a customer 
